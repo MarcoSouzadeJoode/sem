@@ -1,0 +1,5 @@
+\babel@toc {czech}{}
+\beamer@sectionintoc {1}{Teoretick\IeC {\'y} \IeC {\'u}vod}{2}{0}{1}
+\beamer@sectionintoc {2}{Implementace a \IeC {\v c}asov\IeC {\'a} slo\IeC {\v z}itost}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Eratosthenes}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Sundaramovo s\IeC {\'\i }to}{14}{0}{2}

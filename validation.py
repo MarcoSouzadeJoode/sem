@@ -1,7 +1,7 @@
 import Sieves
 import numpy as np
 
-N = 10000
+N = 1000
 
 # nemusíme importovat všechny funkce ručně
 funcs = [func for func in dir(Sieves) if func[0] != "_"]

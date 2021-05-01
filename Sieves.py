@@ -11,6 +11,29 @@ def eratosthenes(n):
                 multiples.append(j)
     return np.array(primes)
 
+def eratosthenes_boolean(n):
+    L = np.ones((n,), dtype="bool")
+    for i in range(2,n):
+        k = 2
+        while k*i < n:
+            L[k*i] = False
+            k += 1
+    L[0], L[1] = False, False
+    return np.array([i for i, l in enumerate(L) if l])
+
+
+def eratosthenes_optimized(n):
+    primes = [i for i in range(2,n+1)]
+    for i in primes:
+        k = 2
+        while k*i <= n:
+            try:
+                primes.remove(k*i)
+            except ValueError:
+                pass
+            k+= 1
+    return primes
+
 def sundaram_naive_boolean(n):
     m = n//2
     L = [True] * n

@@ -3,3 +3,5 @@
 \beamer@sectionintoc {2}{Implementace a \IeC {\v c}asov\IeC {\'a} slo\IeC {\v z}itost}{8}{0}{2}
 \beamer@subsectionintoc {2}{1}{Eratosthenes}{8}{0}{2}
 \beamer@subsectionintoc {2}{2}{Sundaramovo s\IeC {\'\i }to}{14}{0}{2}
+\beamer@subsectionintoc {2}{3}{Vizualizace prvo\IeC {\v c}\IeC {\'\i }sel}{22}{0}{2}
+\beamer@subsectionintoc {2}{4}{Srovn\IeC {\'a}n\IeC {\'\i } s\IeC {\'\i }t}{25}{0}{2}

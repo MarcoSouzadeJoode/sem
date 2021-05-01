@@ -4,7 +4,7 @@ from timeit import repeat
 import matplotlib.pyplot as plt
 
 # maximální horní mez pro síta
-MAX = 10**4
+MAX = 10**6
 
 # prostor horních mezí pro hledání prvočísel
 # dolní mez nechme na čísle > 2
@@ -15,11 +15,10 @@ Ns = np.linspace(10, MAX, 30, dtype="int64")
 # nemusíme importovat všechny funkce ručně
 funcs = [func for func in dir(Sieves) if func[0] != "_"]
 
-funcs = ["eratosthenes", "eratosthenes_boolean", "eratosthenes_optimized"]
 
 # odstranění nevyhovujícího
-#funcs.remove("np")
-#funcs.remove("deque")
+funcs.remove("np")
+funcs.remove("deque")
 
 
 # matice výsledných časů

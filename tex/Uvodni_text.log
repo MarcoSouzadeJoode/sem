@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.12.20)  1 MAY 2021 14:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.12.20)  1 MAY 2021 14:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1242,7 +1242,7 @@ Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 158.
 
-<img/e1.png, id=423, 638.385pt x 262.9825pt>
+<img/e1.png, id=513, 638.385pt x 262.9825pt>
 File: img/e1.png Graphic file (type png)
 <use img/e1.png>
 Package pdftex.def Info: img/e1.png  used on input line 171.
@@ -1250,7 +1250,7 @@ Package pdftex.def Info: img/e1.png  used on input line 171.
 [8
 
  <./img/e1.png>]
-<img/e2.png, id=473, 809.0225pt x 290.08376pt>
+<img/e2.png, id=572, 809.0225pt x 290.08376pt>
 File: img/e2.png Graphic file (type png)
 <use img/e2.png>
 Package pdftex.def Info: img/e2.png  used on input line 180.
@@ -1258,7 +1258,7 @@ Package pdftex.def Info: img/e2.png  used on input line 180.
  [9
 
  <./img/e2.png>]
-<img/e3.png, id=524, 596.2275pt x 308.15125pt>
+<img/e3.png, id=632, 596.2275pt x 308.15125pt>
 File: img/e3.png Graphic file (type png)
 <use img/e3.png>
 Package pdftex.def Info: img/e3.png  used on input line 189.
@@ -1266,7 +1266,7 @@ Package pdftex.def Info: img/e3.png  used on input line 189.
  [10
 
  <./img/e3.png>]
-<img/e_c.png, id=573, 599.23875pt x 609.27625pt>
+<img/e_c.png, id=690, 599.23875pt x 609.27625pt>
 File: img/e_c.png Graphic file (type png)
 <use img/e_c.png>
 Package pdftex.def Info: img/e_c.png  used on input line 199.
@@ -1279,7 +1279,7 @@ Package pdftex.def Info: img/e_c.png  used on input line 199.
 ] [13
 
 ]
-<img/s1.png, id=721, 778.91pt x 385.44pt>
+<img/s1.png, id=865, 778.91pt x 385.44pt>
 File: img/s1.png Graphic file (type png)
 <use img/s1.png>
 Package pdftex.def Info: img/s1.png  used on input line 244.
@@ -1289,7 +1289,7 @@ Package pdftex.def Info: img/s1.png  used on input line 244.
  <./img/s1.png>] [15
 
 ]
-<img/s2.png, id=818, 589.20125pt x 309.155pt>
+<img/s2.png, id=980, 589.20125pt x 309.155pt>
 File: img/s2.png Graphic file (type png)
 <use img/s2.png>
 Package pdftex.def Info: img/s2.png  used on input line 266.
@@ -1297,7 +1297,7 @@ Package pdftex.def Info: img/s2.png  used on input line 266.
  [16
 
  <./img/s2.png>]
-<img/s3.png, id=867, 567.11874pt x 307.1475pt>
+<img/s3.png, id=1039, 567.11874pt x 307.1475pt>
 File: img/s3.png Graphic file (type png)
 <use img/s3.png>
 Package pdftex.def Info: img/s3.png  used on input line 274.
@@ -1308,7 +1308,7 @@ Package pdftex.def Info: img/s3.png  used on input line 274.
 [18
 
 ]
-<img/s4.png, id=964, 758.835pt x 386.44376pt>
+<img/s4.png, id=1154, 758.835pt x 386.44376pt>
 File: img/s4.png Graphic file (type png)
 <use img/s4.png>
 Package pdftex.def Info: img/s4.png  used on input line 294.
@@ -1316,7 +1316,7 @@ Package pdftex.def Info: img/s4.png  used on input line 294.
  [19
 
  <./img/s4.png>]
-<img/id1.png, id=1015, 696.6025pt x 300.12125pt>
+<img/id1.png, id=1213, 696.6025pt x 300.12125pt>
 File: img/id1.png Graphic file (type png)
 <use img/id1.png>
 Package pdftex.def Info: img/id1.png  used on input line 303.
@@ -1329,7 +1329,7 @@ Overfull \hbox (22.91948pt too wide) in paragraph at lines 303--303
 [20
 
  <./img/id1.png>]
-<img/id2.png, id=1064, 703.62875pt x 453.695pt>
+<img/id2.png, id=1272, 703.62875pt x 453.695pt>
 File: img/id2.png Graphic file (type png)
 <use img/id2.png>
 Package pdftex.def Info: img/id2.png  used on input line 315.
@@ -1341,6 +1341,78 @@ Overfull \vbox (5.28593pt too high) detected at line 315
 [21
 
  <./img/id2.png>]
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 317.
+
+<img/vis0.png, id=1330, 373.395pt x 375.4025pt>
+File: img/vis0.png Graphic file (type png)
+<use img/vis0.png>
+Package pdftex.def Info: img/vis0.png  used on input line 325.
+(pdftex.def)             Requested size: 141.50414pt x 142.26378pt.
+[22
+
+ <./img/vis0.png>]
+<img/vis1.png, id=1389, 373.395pt x 384.43625pt>
+File: img/vis1.png Graphic file (type png)
+<use img/vis1.png>
+Package pdftex.def Info: img/vis1.png  used on input line 332.
+(pdftex.def)             Requested size: 138.18246pt x 142.26378pt.
+ [23
+
+ <./img/vis1.png>]
+<img/vis2.png, id=1448, 364.36125pt x 378.41376pt>
+File: img/vis2.png Graphic file (type png)
+<use img/vis2.png>
+Package pdftex.def Info: img/vis2.png  used on input line 340.
+(pdftex.def)             Requested size: 136.97983pt x 142.26378pt.
+ [24
+
+ <./img/vis2.png>]
+<img/comp4.png, id=1506, 680.7834pt x 521.7894pt>
+File: img/comp4.png Graphic file (type png)
+<use img/comp4.png>
+Package pdftex.def Info: img/comp4.png  used on input line 351.
+(pdftex.def)             Requested size: 259.85344pt x 199.16928pt.
+ [25
+
+ <./img/comp4.png>]
+<img/comp5.png, id=1566, 613.5723pt x 456.7464pt>
+File: img/comp5.png Graphic file (type png)
+<use img/comp5.png>
+Package pdftex.def Info: img/comp5.png  used on input line 358.
+(pdftex.def)             Requested size: 267.55714pt x 199.16928pt.
+ [26
+
+ <./img/comp5.png>]
+<img/comp6.png, id=1624, 854.9541pt x 581.7735pt>
+File: img/comp6.png Graphic file (type png)
+<use img/comp6.png>
+Package pdftex.def Info: img/comp6.png  used on input line 365.
+(pdftex.def)             Requested size: 292.68956pt x 199.16928pt.
+ [27
+
+ <./img/comp6.png>]
+<img/comp7.png, id=1683, 881.694pt x 656.9343pt>
+File: img/comp7.png Graphic file (type png)
+<use img/comp7.png>
+Package pdftex.def Info: img/comp7.png  used on input line 372.
+(pdftex.def)             Requested size: 267.30858pt x 199.16928pt.
+ [28
+
+ <./img/comp7.png>]
+<img/winners.png, id=1741, 805.0075pt x 649.42625pt>
+File: img/winners.png Graphic file (type png)
+<use img/winners.png>
+Package pdftex.def Info: img/winners.png  used on input line 382.
+(pdftex.def)             Requested size: 176.34062pt x 142.26378pt.
+
+[29
+
+ <./img/winners.png>] [30
+
+]
 \tf@nav=\write6
 \openout6 = `Uvodni_text.nav'.
 
@@ -1350,19 +1422,19 @@ Overfull \vbox (5.28593pt too high) detected at line 315
 \tf@snm=\write8
 \openout8 = `Uvodni_text.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 319.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 319.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
  (./Uvodni_text.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 319.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 319.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
 Package rerunfilecheck Info: File `Uvodni_text.out' has not changed.
-(rerunfilecheck)             Checksum: CFD943F0197325B87A73B7824888A499;258.
+(rerunfilecheck)             Checksum: B1EA9A01B9D84CB9E7F8751556F3453B;403.
  ) 
 Here is how much of TeX's memory you used:
- 18589 strings out of 492982
- 346560 string characters out of 6134895
- 444514 words of memory out of 5000000
- 21668 multiletter control sequences out of 15000+600000
+ 18673 strings out of 492982
+ 347606 string characters out of 6134895
+ 450679 words of memory out of 5000000
+ 21724 multiletter control sequences out of 15000+600000
  11452 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,20n,57p,798b,776s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1379,10 +1451,10 @@ fonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 >
-Output written on Uvodni_text.pdf (21 pages, 479649 bytes).
+Output written on Uvodni_text.pdf (30 pages, 876605 bytes).
 PDF statistics:
- 1169 PDF objects out of 1200 (max. 8388607)
- 1067 compressed objects within 11 object streams
- 47 named destinations out of 1000 (max. 500000)
- 167 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1916 PDF objects out of 2073 (max. 8388607)
+ 1773 compressed objects within 18 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 223 words of extra memory for PDF output out of 10000 (max. 10000000)
 

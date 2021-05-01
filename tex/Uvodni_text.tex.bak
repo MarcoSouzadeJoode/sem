@@ -314,6 +314,44 @@ O(\frac{m}{5} \log m) = O(\frac{\floor{N/2}}{5} \log \floor{N/2}) < N \log N
 \end{figure}
 \end{frame}
 
+\subsection{Vizualizace prvočísel}
+
+\begin{frame}
+\frametitle{Vizualizace prvočísel: 100}
+Vizualizace prvočísel
+\begin{figure}
+\includegraphics[height=5cm]{img/vis0.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Vizualizace prvočísel: 576}
+\begin{figure}
+\includegraphics[height=5cm]{img/vis1.png}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Vizualizace prvočísel: 10000}
+Vizualizace prvočísel
+\begin{figure}
+\includegraphics[height=5cm]{img/vis2.png}
+\end{figure}
+\end{frame}
+
+
+\subsection{Srovnání sít}
+
+
+\begin{frame}
+\frametitle{Vizualizace prvočísel: 10000}
+Vizualizace prvočísel
+\begin{figure}
+\includegraphics[height=5cm]{img/vis2.png}
+\end{figure}
+\end{frame}
+
+
 
 
 \end{document}

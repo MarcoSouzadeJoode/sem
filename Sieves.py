@@ -1,3 +1,16 @@
+import numpy as np
+from collections import deque
+
+def eratosthenes(n):
+    multiples = []
+    primes = []
+    for i in range(2, n+1):
+        if i not in multiples:
+            primes.append(i)
+            for j in range(i*i, n+1, i):
+                multiples.append(j)
+    return np.array(primes)
+
 def sundaram_naive_boolean(n):
     m = n//2
     L = [True] * n
